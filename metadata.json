@@ -1,0 +1,5 @@
+{
+  "name": "7-Axis Robot Simulator",
+  "description": "A high-fidelity 7-axis robotic arm simulator with gripper control, gamepad support, and multi-camera perspective switching.",
+  "requestFramePermissions": []
+}
